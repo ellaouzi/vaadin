@@ -1,5 +1,5 @@
-package com.matt.service.addstudent;
-import com.matt.model.entity.Student;
+package com.fosagri.service.addstudent;
+import com.fosagri.model.entity.Student;
 
 public interface AddStudentService {
 

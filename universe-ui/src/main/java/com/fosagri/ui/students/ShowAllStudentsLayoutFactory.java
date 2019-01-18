@@ -1,12 +1,12 @@
-package com.matt.ui.students;
+package com.fosagri.ui.students;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.matt.model.entity.Student;
-import com.matt.service.showallstudents.ShowAllStudentsService;
-import com.matt.ui.commonns.UIComponentBuilder;
+import com.fosagri.model.entity.Student;
+import com.fosagri.service.showallstudents.ShowAllStudentsService;
+import com.fosagri.ui.commonns.UIComponentBuilder;
 import com.vaadin.data.util.BeanItemContainer;
 import com.vaadin.ui.Component;
 import com.vaadin.ui.Grid;

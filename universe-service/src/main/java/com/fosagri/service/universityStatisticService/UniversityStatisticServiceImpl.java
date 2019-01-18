@@ -1,9 +1,9 @@
-package com.matt.service.universityStatisticService;
+package com.fosagri.service.universityStatisticService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.matt.repository.university.UniversityRepository;
+import com.fosagri.repository.university.UniversityRepository;
 
 @Service
 public class UniversityStatisticServiceImpl implements UniversityStatisticService{

@@ -1,6 +1,6 @@
-package com.matt.service.addUniversityService;
+package com.fosagri.service.addUniversityService;
 
-import com.matt.model.entity.University;
+import com.fosagri.model.entity.University;
 
 public interface AddUniversityService {
 	

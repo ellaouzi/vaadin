@@ -36,7 +36,7 @@
 			<version>1.4.0.RELEASE</version>
 		</dependency>
 		<dependency>
-			<groupId>com.matt</groupId>
+			<groupId>com.fosagri</groupId>
 			<artifactId>universe-ui</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

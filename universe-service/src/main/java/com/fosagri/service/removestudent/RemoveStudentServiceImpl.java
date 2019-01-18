@@ -1,10 +1,10 @@
-package com.matt.service.removestudent;
+package com.fosagri.service.removestudent;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.matt.model.entity.Student;
-import com.matt.repository.student.StudentRepository;
+import com.fosagri.model.entity.Student;
+import com.fosagri.repository.student.StudentRepository;
 
 @Service
 public class RemoveStudentServiceImpl implements RemoveStudentService{

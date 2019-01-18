@@ -1,12 +1,12 @@
-package com.matt.service.showallstudents;
+package com.fosagri.service.showallstudents;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.matt.model.entity.Student;
-import com.matt.repository.student.StudentRepository;
+import com.fosagri.model.entity.Student;
+import com.fosagri.repository.student.StudentRepository;
 
 @Service
 public class ShowAllStudentsServiceImpl implements ShowAllStudentsService {

@@ -1,12 +1,12 @@
-package com.matt.ui.university;
+package com.fosagri.ui.university;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.matt.model.entity.University;
-import com.matt.service.addUniversityService.AddUniversityService;
-import com.matt.utils.NotificationMessages;
-import com.matt.utils.StudentStringUitls;
-import com.matt.utils.UniversityStringUtils;
+import com.fosagri.model.entity.University;
+import com.fosagri.service.addUniversityService.AddUniversityService;
+import com.fosagri.utils.NotificationMessages;
+import com.fosagri.utils.StudentStringUitls;
+import com.fosagri.utils.UniversityStringUtils;
 import com.vaadin.data.fieldgroup.BeanFieldGroup;
 import com.vaadin.data.fieldgroup.FieldGroup.CommitException;
 import com.vaadin.ui.Button;

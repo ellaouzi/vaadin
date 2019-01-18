@@ -1,14 +1,13 @@
-package com.matt.repository.university;
+package com.fosagri.repository.university;
 
 import java.util.List;
 
-import org.hibernate.boot.model.source.spi.JpaCallbackSource;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.matt.model.entity.University;
+import com.fosagri.model.entity.University;
 
 @Repository
 public interface UniversityRepository extends JpaRepository<University, Integer> {

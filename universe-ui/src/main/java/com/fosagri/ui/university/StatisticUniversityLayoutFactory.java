@@ -1,13 +1,13 @@
-package com.matt.ui.university;
+package com.fosagri.ui.university;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.matt.model.entity.University;
-import com.matt.service.showUniversityService.ShowAllUniversitiesService;
-import com.matt.service.universityStatisticService.UniversityStatisticService;
-import com.matt.ui.commonns.UIComponentBuilder;
+import com.fosagri.model.entity.University;
+import com.fosagri.service.showUniversityService.ShowAllUniversitiesService;
+import com.fosagri.service.universityStatisticService.UniversityStatisticService;
+import com.fosagri.ui.commonns.UIComponentBuilder;
 import com.vaadin.shared.ui.label.ContentMode;
 import com.vaadin.ui.Component;
 import com.vaadin.ui.Label;

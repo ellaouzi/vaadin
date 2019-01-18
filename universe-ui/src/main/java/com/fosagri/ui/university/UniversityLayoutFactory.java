@@ -1,13 +1,12 @@
-package com.matt.ui.university;
+package com.fosagri.ui.university;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.matt.ui.commonns.UniversMainUI;
+import com.fosagri.ui.commonns.UniversMainUI;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.spring.annotation.SpringView;
 import com.vaadin.ui.Component;
-import com.vaadin.ui.Label;
 import com.vaadin.ui.TabSheet;
 import com.vaadin.ui.VerticalLayout;
 

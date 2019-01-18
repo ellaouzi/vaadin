@@ -1,4 +1,4 @@
-package com.matt.model.entity;
+package com.fosagri.model.entity;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.Statement;

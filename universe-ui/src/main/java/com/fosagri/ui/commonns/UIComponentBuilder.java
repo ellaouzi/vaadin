@@ -1,4 +1,4 @@
-package com.matt.ui.commonns;
+package com.fosagri.ui.commonns;
 
 import com.vaadin.ui.Component;
 

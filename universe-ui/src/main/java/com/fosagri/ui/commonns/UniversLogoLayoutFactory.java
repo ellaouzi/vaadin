@@ -1,4 +1,4 @@
-package com.matt.ui.commonns;
+package com.fosagri.ui.commonns;
 
 
 
@@ -18,7 +18,7 @@ public class UniversLogoLayoutFactory  implements UIComponentBuilder{
 		
 		public LogoLayout init() {
 			logo = new Embedded();
-			logo.setSource(new ThemeResource("../../images/universe_2.png"));
+			logo.setSource(new ThemeResource("../../images/fosagri.png"));
 			logo.setWidth("398px");
 			logo.setHeight("241px");
 			return this;

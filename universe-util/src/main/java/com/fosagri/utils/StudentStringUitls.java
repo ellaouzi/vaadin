@@ -1,10 +1,9 @@
-package com.matt.utils;
+package com.fosagri.utils;
 
 public enum StudentStringUitls {
 
 	MAIN_MENU("MAIN MENU"),
 	SHOW_ALL_STUDENTS("SHOW ALL STUDENTS"),
-	
 	FIRST_NAME("First Name"),
 	LAST_NAME("Last Name"),
 	GENDER("gender"),

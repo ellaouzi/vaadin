@@ -1,6 +1,6 @@
-package com.matt.service.removestudent;
+package com.fosagri.service.removestudent;
 
-import com.matt.model.entity.Student;
+import com.fosagri.model.entity.Student;
 
 public interface RemoveStudentService {
 	

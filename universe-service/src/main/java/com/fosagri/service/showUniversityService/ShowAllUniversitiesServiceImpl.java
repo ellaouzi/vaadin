@@ -1,13 +1,12 @@
-package com.matt.service.showUniversityService;
+package com.fosagri.service.showUniversityService;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 
-import com.matt.model.entity.University;
-import com.matt.repository.university.UniversityRepository;
+import com.fosagri.model.entity.University;
+import com.fosagri.repository.university.UniversityRepository;
 
 @Service
 public class ShowAllUniversitiesServiceImpl  implements ShowAllUniversitiesService{

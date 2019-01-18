@@ -1,4 +1,4 @@
-package com.matt.utils;
+package com.fosagri.utils;
 
 public enum NotificationMessages {
 	UNIVERSITY_SAVED_VALIDATION_ERROR_TITLE("ERROR"),

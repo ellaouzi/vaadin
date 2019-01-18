@@ -1,10 +1,10 @@
-package com.matt.service.addUniversityService;
+package com.fosagri.service.addUniversityService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.matt.model.entity.University;
-import com.matt.repository.university.UniversityRepository;
+import com.fosagri.model.entity.University;
+import com.fosagri.repository.university.UniversityRepository;
 
 @Service
 public class AddUniversityServiceImpl implements AddUniversityService  {

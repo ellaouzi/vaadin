@@ -1,4 +1,4 @@
-package com.matt.utils;
+package com.fosagri.utils;
 
 public enum UniversityStringUtils {
 	

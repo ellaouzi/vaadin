@@ -1,16 +1,16 @@
-package com.matt.ui.students;
+package com.fosagri.ui.students;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.google.gwt.i18n.server.testing.Gender;
-import com.matt.model.entity.Student;
-import com.matt.model.entity.University;
-import com.matt.service.addstudent.AddStudentService;
-import com.matt.service.showUniversityService.ShowAllUniversitiesService;
-import com.matt.utils.NotificationMessages;
-import com.matt.utils.StudentStringUitls;
+import com.fosagri.model.entity.Student;
+import com.fosagri.model.entity.University;
+import com.fosagri.service.addstudent.AddStudentService;
+import com.fosagri.service.showUniversityService.ShowAllUniversitiesService;
+import com.fosagri.utils.NotificationMessages;
+import com.fosagri.utils.StudentStringUitls;
 import com.vaadin.data.fieldgroup.BeanFieldGroup;
 import com.vaadin.data.fieldgroup.FieldGroup.CommitException;
 import com.vaadin.ui.Button;

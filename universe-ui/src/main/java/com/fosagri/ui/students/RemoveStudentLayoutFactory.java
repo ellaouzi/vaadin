@@ -1,14 +1,14 @@
-package com.matt.ui.students;
+package com.fosagri.ui.students;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import com.matt.model.entity.Student;
-import com.matt.service.removestudent.RemoveStudentService;
-import com.matt.service.showallstudents.ShowAllStudentsService;
-import com.matt.ui.commonns.UniversMainUI;
-import com.matt.utils.NotificationMessages;
+import com.fosagri.model.entity.Student;
+import com.fosagri.service.removestudent.RemoveStudentService;
+import com.fosagri.service.showallstudents.ShowAllStudentsService;
+import com.fosagri.ui.commonns.UniversMainUI;
+import com.fosagri.utils.NotificationMessages;
 import com.vaadin.data.util.BeanItemContainer;
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;

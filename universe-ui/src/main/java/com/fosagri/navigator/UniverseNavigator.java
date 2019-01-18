@@ -1,8 +1,7 @@
-package com.matt.navigator;
+package com.fosagri.navigator;
 
 import com.google.gwt.thirdparty.guava.common.base.Strings;
 import com.vaadin.navigator.Navigator;
-import com.vaadin.ui.ComponentContainer;
 import com.vaadin.ui.SingleComponentContainer;
 import com.vaadin.ui.UI;
 
