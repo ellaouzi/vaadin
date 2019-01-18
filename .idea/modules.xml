@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/universe.iml" filepath="$PROJECT_DIR$/universe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-model/universe-model.iml" filepath="$PROJECT_DIR$/universe-model/universe-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-repository/universe-repository.iml" filepath="$PROJECT_DIR$/universe-repository/universe-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-service/universe-service.iml" filepath="$PROJECT_DIR$/universe-service/universe-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-ui/universe-ui.iml" filepath="$PROJECT_DIR$/universe-ui/universe-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-util/universe-util.iml" filepath="$PROJECT_DIR$/universe-util/universe-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-web/universe-web.iml" filepath="$PROJECT_DIR$/universe-web/universe-web.iml" />
+    </modules>
+  </component>
+</project>
