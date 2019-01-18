@@ -1,4 +1,4 @@
-package com.matt.launcher;
+package com.fosagri.launcher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -11,9 +11,9 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @Configuration
 @EnableAutoConfiguration
-@ComponentScan({"com.matt"})
-@EnableJpaRepositories({"com.matt"})
-@EntityScan(("com.matt"))
+@ComponentScan({"com.fosagri"})
+@EnableJpaRepositories({"com.fosagri"})
+@EntityScan(("com.fosagri"))
 public class SpringBootApplication extends SpringBootServletInitializer{
 	
 	@Override
