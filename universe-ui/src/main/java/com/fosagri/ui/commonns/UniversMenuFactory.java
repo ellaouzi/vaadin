@@ -28,14 +28,20 @@ public class UniversMenuFactory implements UIComponentBuilder {
 			mainMenu.addItem(StringUtils.MENU_STUDENT.getString());
 			mainMenu.addItem(StringUtils.MENU_UNIVERSITY.getString());
 			mainMenu.addItem(StringUtils.MENU_ADHERENT.getString());
+			mainMenu.addItem(StringUtils.MENU_PRESTATION.getString());
 
 			mainMenu.expandItem(StringUtils.MENU_STUDENT.getString());
 			mainMenu.expandItem(StringUtils.MENU_UNIVERSITY.getString());
 			mainMenu.expandItem(StringUtils.MENU_ADHERENT.getString());
+			mainMenu.expandItem(StringUtils.MENU_PRESTATION.getString());
 
 			mainMenu.addItem(StringUtils.MENU_OPP_ADHERENT.getString());
  			mainMenu.setChildrenAllowed(StringUtils.MENU_OPP_ADHERENT.getString(), false);
  			mainMenu.setParent(StringUtils.MENU_OPP_ADHERENT.getString(),  StringUtils.MENU_ADHERENT.getString());
+
+			mainMenu.addItem(StringUtils.MENU_OPP_PRESTATION.getString());
+ 			mainMenu.setChildrenAllowed(StringUtils.MENU_OPP_PRESTATION.getString(), false);
+ 			mainMenu.setParent(StringUtils.MENU_OPP_PRESTATION.getString(),  StringUtils.MENU_PRESTATION.getString());
 
 			mainMenu.addItem(StringUtils.MENU_ADD_STUDENT.getString());
 			mainMenu.addItem(StringUtils.MENU_REMOVE_STUDENT.getString());

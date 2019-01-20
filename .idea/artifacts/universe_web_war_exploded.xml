@@ -109,6 +109,9 @@
           <element id="archive" name="universe-service-0.0.1-SNAPSHOT.jar">
             <element id="module-output" name="universe-service" />
           </element>
+          <element id="archive" name="universe-rest-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="universe-rest" />
+          </element>
           <element id="archive" name="universe-repository-0.0.1-SNAPSHOT.jar">
             <element id="module-output" name="universe-repository" />
           </element>

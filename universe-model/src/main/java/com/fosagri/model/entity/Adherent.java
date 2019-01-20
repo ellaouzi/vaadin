@@ -1,11 +1,14 @@
 package com.fosagri.model.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
+import org.springframework.web.multipart.MultipartFile;
 
 import javax.persistence.*;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
+import java.util.Date;
 
 @Entity
 @Table(name="ADHERENT")
@@ -43,6 +46,19 @@ public class Adherent {
 	@NotNull(message="You have to set the gender")
 	@Column(name="gender")
 	private String gender;
+ 	private String gsm;
+	private String email;
+	private String sexag;
+	private String idAdh;
+ 	private Date naissance;
+ 	private String situationfamiliale;
+	private String adresse;
+	private String isModified;
+	private Date updated;
+	private String direction;
+	@JsonIgnore
+	@Transient
+	private MultipartFile adherentImage;
 
 	public Adherent() {
 		

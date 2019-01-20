@@ -1,6 +1,7 @@
 package com.fosagri;
 
-import org.springframework.boot.SpringApplication;
+ import com.fosagri.rest.TesterClass;
+ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
@@ -18,6 +19,8 @@ public class SpringBootApplication extends SpringBootServletInitializer{
 	
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		TesterClass testClass=new TesterClass();
+		testClass.testMethod();
 		return application.sources(SpringBootApplication.class);
 	}
 	
