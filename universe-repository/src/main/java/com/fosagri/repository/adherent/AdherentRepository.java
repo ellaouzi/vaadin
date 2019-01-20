@@ -8,6 +8,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface AdherentRepository extends JpaRepository<Adherent, Integer> {
+ Adherent findByPpr(String ppr);
 
 	@Query("select a from Adherent a where a.ppr =:ppr")
 	Adherent findAdherentByPpr(@Param("ppr") String ppr);

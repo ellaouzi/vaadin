@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="universe-model" />
         <module name="universe-repository" />
+        <module name="universe-rest" />
         <module name="universe-service" />
         <module name="universe-ui" />
         <module name="universe-util" />
@@ -18,6 +19,7 @@
       <module name="universe" target="1.5" />
       <module name="universe-model" target="1.5" />
       <module name="universe-repository" target="1.5" />
+      <module name="universe-rest" target="1.5" />
       <module name="universe-service" target="1.5" />
       <module name="universe-ui" target="1.5" />
       <module name="universe-util" target="1.5" />

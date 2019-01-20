@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/universe.iml" filepath="$PROJECT_DIR$/universe.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe-model/universe-model.iml" filepath="$PROJECT_DIR$/universe-model/universe-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe-repository/universe-repository.iml" filepath="$PROJECT_DIR$/universe-repository/universe-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-rest/universe-rest.iml" filepath="$PROJECT_DIR$/universe-rest/universe-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe-service/universe-service.iml" filepath="$PROJECT_DIR$/universe-service/universe-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe-ui/universe-ui.iml" filepath="$PROJECT_DIR$/universe-ui/universe-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe-util/universe-util.iml" filepath="$PROJECT_DIR$/universe-util/universe-util.iml" />
