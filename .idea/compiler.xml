@@ -6,24 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="universe-model" />
-        <module name="universe-repository" />
-        <module name="universe-rest" />
-        <module name="universe-service" />
-        <module name="universe-ui" />
-        <module name="universe-util" />
-        <module name="universe-web" />
+        <module name="fosagri-model" />
+        <module name="fosagri-repository" />
+        <module name="fosagri-rest" />
+        <module name="fosagri-service" />
+        <module name="fosagri-ui" />
+        <module name="fosagri-util" />
+        <module name="fosagri-web" />
+        <module name="prestat-ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="fosagri-model" target="1.5" />
+      <module name="fosagri-repository" target="1.5" />
+      <module name="fosagri-rest" target="1.5" />
+      <module name="fosagri-service" target="1.5" />
+      <module name="fosagri-ui" target="8" />
+      <module name="fosagri-util" target="1.5" />
+      <module name="fosagri-web" target="1.8" />
+      <module name="prestat-ui" target="1.8" />
       <module name="universe" target="1.5" />
-      <module name="universe-model" target="1.5" />
-      <module name="universe-repository" target="1.5" />
-      <module name="universe-rest" target="1.5" />
-      <module name="universe-service" target="1.5" />
-      <module name="universe-ui" target="1.5" />
-      <module name="universe-util" target="1.5" />
-      <module name="universe-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fosagri-model/fosagri-model.iml" filepath="$PROJECT_DIR$/fosagri-model/fosagri-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-model/fosagri-model.iml" filepath="$PROJECT_DIR$/universe-model/fosagri-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-repository/fosagri-repository.iml" filepath="$PROJECT_DIR$/fosagri-repository/fosagri-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-repository/fosagri-repository.iml" filepath="$PROJECT_DIR$/universe-repository/fosagri-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-rest/fosagri-rest.iml" filepath="$PROJECT_DIR$/fosagri-rest/fosagri-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-rest/fosagri-rest.iml" filepath="$PROJECT_DIR$/universe-rest/fosagri-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-service/fosagri-service.iml" filepath="$PROJECT_DIR$/fosagri-service/fosagri-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-service/fosagri-service.iml" filepath="$PROJECT_DIR$/universe-service/fosagri-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-ui/fosagri-ui.iml" filepath="$PROJECT_DIR$/fosagri-ui/fosagri-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-ui/fosagri-ui.iml" filepath="$PROJECT_DIR$/universe-ui/fosagri-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-util/fosagri-util.iml" filepath="$PROJECT_DIR$/fosagri-util/fosagri-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universe-util/fosagri-util.iml" filepath="$PROJECT_DIR$/universe-util/fosagri-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fosagri-web/fosagri-web.iml" filepath="$PROJECT_DIR$/fosagri-web/fosagri-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prestat-ui/prestat-ui.iml" filepath="$PROJECT_DIR$/prestat-ui/prestat-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/universe.iml" filepath="$PROJECT_DIR$/universe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-model/universe-model.iml" filepath="$PROJECT_DIR$/universe-model/universe-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-repository/universe-repository.iml" filepath="$PROJECT_DIR$/universe-repository/universe-repository.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-rest/universe-rest.iml" filepath="$PROJECT_DIR$/universe-rest/universe-rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-service/universe-service.iml" filepath="$PROJECT_DIR$/universe-service/universe-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-ui/universe-ui.iml" filepath="$PROJECT_DIR$/universe-ui/universe-ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-util/universe-util.iml" filepath="$PROJECT_DIR$/universe-util/universe-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/universe-web/universe-web.iml" filepath="$PROJECT_DIR$/universe-web/universe-web.iml" />
     </modules>
   </component>
 </project>

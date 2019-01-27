@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="universe-web:war">
     <output-path>$PROJECT_DIR$/universe-web/target</output-path>
-    <root id="archive" name="universe-web-1.3.6.RELEASE.war">
+    <root id="archive" name="fosagri-web-1.3.6.RELEASE.war">
       <element id="artifact" artifact-name="universe-web:war exploded" />
     </root>
   </artifact>

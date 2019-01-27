@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="gwt" url="file://$PROJECT_DIR$/prestat-ui" />
+    <file type="gwt" url="file://$PROJECT_DIR$/universe-ui" />
+    <file type="web" url="file://$PROJECT_DIR$/fosagri-web" />
+    <file type="web" url="file://$PROJECT_DIR$/prestat-ui" />
     <file type="web" url="file://$PROJECT_DIR$/universe-web" />
   </component>
   <component name="MavenProjectsManager">
