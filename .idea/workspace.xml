@@ -7,215 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae56758e-bc7d-482d-87df-60cb8ed22aef" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/universe_web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/universe_web_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/universe_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/universe_web_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_patch_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_11_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_11_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1208_jre7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_9_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_2_4_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_2_4_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_19_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/fosagri-model.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Adherent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Greeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Prestation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/TestConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/University.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-model/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/fosagri-repository.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/src/main/java/com/fosagri/repository/adherent/AdherentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/src/main/java/com/fosagri/repository/prestation/PrestationRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/src/main/java/com/fosagri/repository/student/StudentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-repository/src/main/java/com/fosagri/repository/university/UniversityRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/fosagri-rest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/src/main/java/com/fosagri/rest/GreetingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/src/main/java/com/fosagri/rest/PrestationApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-rest/src/main/java/com/fosagri/rest/TesterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/fosagri-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addUniversityService/AddUniversityService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addUniversityService/AddUniversityServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addstudent/AddStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addstudent/AddStudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AddAdherentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AddAdherentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AdherentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AdherentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AdherentStatisticService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/AdherentStatisticServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/ShowAllAdherentsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/adherentService/ShowAllAdherentsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/removestudent/RemoveStudentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/removestudent/RemoveStudentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showPrestationService/ShowAllPrestationsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showPrestationService/ShowAllPrestationsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showUniversityService/ShowAllUniversitiesService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showUniversityService/ShowAllUniversitiesServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/universityStatisticService/UniversityStatisticService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/universityStatisticService/UniversityStatisticServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/navigator/UniverseNavigator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/service/showallstudents/ShowAllStudentsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/service/showallstudents/ShowAllStudentsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/AddAdherenetLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/AdherentLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/AdherentSavedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/ShowAllAdherentsLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/StatisticAdherentLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UIComponentBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversLogoLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversMainUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversMenuFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/PrestationLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/PrestationSavedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/ShowAllPrestationsLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/AddStudentMainLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/RemoveStudentLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/ShowAllStudentsLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/StudentLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/StudentSavedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/university/AddUniversityLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/university/ShowUniversitiesLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/university/StatisticUniversityLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/university/UniversityLayoutFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/university/UniversitySavedListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-ui/universe-ui.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/fosagri-util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/AdherentStringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/Choix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/NotificationMessages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/Periode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/PrestationStringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/StudentStringUitls.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/UniversityStringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/.jsdtscope" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.wst.common.component" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.hibernate.eclipse.console.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/fosagri-web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/src/main/java/com/fosagri/SpringBootApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/src/main/webapp/VAADIN/images/fosagri.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/universe-web/src/main/webapp/VAADIN/images/universe_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-model/universe-model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-repository/universe-repository.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-rest/universe-rest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-service/universe-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-util/universe-util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/universe-web/universe-web.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/universe-web/target/" />
     <ignored path="$PROJECT_DIR$/universe-service/target/" />
@@ -256,64 +54,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MainView.java">
+      <file leaf-file-name="AddPrestationLayoutFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1562#1574#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-813">
+              <caret line="71" column="40" lean-forward="true" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrestationApi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/PrestationApi.java">
+      <file leaf-file-name="AddPrestationService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="66" column="38" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="38" />
+            <state relative-caret-position="108">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdherentApi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/AdherentApi.java">
+      <file leaf-file-name="AddPrestationServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrestationStringUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/PrestationStringUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrestationLayoutFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/PrestationLayoutFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrestationSavedListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/PrestationSavedListener.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1332#1333#0" expanded="true" />
-                <element signature="e#1420#1421#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fosagri-rest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Prestation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Prestation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrestationCrudEditor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/PrestationCrudEditor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -321,35 +111,38 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="252">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fosagri-model/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Prestation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Prestation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageBean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MessageBean.java">
+      <file leaf-file-name="UniverseNavigator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/navigator/UniverseNavigator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="288">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestat-ui/pom.xml">
+      <file leaf-file-name="UniversLogoLayoutFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversLogoLayoutFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-864">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="306">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -365,15 +158,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>operationsprestations</find>
-      <find>bind</find>
-      <find>Binde</find>
-      <find>must</find>
-      <find>STUDENT_SAVE_VALIDATION_ERROR_DESCRIPTION</find>
-      <find>Comp</find>
-      <find>showAllUniversitiesService</find>
-      <find>createComponent</find>
-      <find>vaa</find>
       <find>.data</find>
       <find>PageRequest</find>
       <find>/ui</find>
@@ -395,6 +179,15 @@
       <find>service</find>
       <find>prestation</find>
       <find>postgres</find>
+      <find>Id</find>
+      <find>findById</find>
+      <find>deletePrestationById</find>
+      <find>del</find>
+      <find>demandeService</find>
+      <find>stud</find>
+      <find>StudentLayoutFactory</find>
+      <find>id</find>
+      <find>layout</find>
     </findStrings>
     <replaceStrings>
       <replace>adherents</replace>
@@ -410,10 +203,12 @@
       <replace>restation</replace>
       <replace>prestationRepository</replace>
       <replace>adherent</replace>
+      <replace>prestationService</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\surface\IdeaProjects\universe-master\universe-ui</dir>
       <dir>C:\Users\surface\IdeaProjects\universe-master</dir>
+      <dir>C:\Users\surface\IdeaProjects\fosagri-master\fosagri-ui</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -422,20 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/api/AdherentRestController.java" />
-        <option value="$PROJECT_DIR$/universe-rest/pom.xml" />
-        <option value="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/api/AdherentRestController.java" />
-        <option value="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Adherent.java" />
-        <option value="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationService.java" />
-        <option value="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showPrestationService/ShowAllPrestationsService.java" />
-        <option value="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/showPrestationService/ShowAllPrestationsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/StringUtils.java" />
-        <option value="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/PrestationStringUtils.java" />
-        <option value="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/Periode.java" />
-        <option value="$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/Choix.java" />
-        <option value="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/PrestationSavedListener.java" />
-        <option value="$PROJECT_DIR$/universe-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationServiceImpl.java" />
-        <option value="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java" />
         <option value="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/PrestationLayoutFactory.java" />
         <option value="$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/ShowAllPrestationsLayoutFactory.java" />
         <option value="$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Prestation.java" />
@@ -471,8 +252,22 @@
         <option value="$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/PerestationDataProvider.java" />
         <option value="$PROJECT_DIR$/prestat-ui/pom.xml" />
         <option value="$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MainView.java" />
-        <option value="$PROJECT_DIR$/fosagri-model/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/AdherentApi.java" />
+        <option value="$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/prestation/PrestationService.java" />
+        <option value="$PROJECT_DIR$/fosagri-repository/src/main/java/com/fosagri/repository/prestation/PrestationRepository.java" />
+        <option value="$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/prestation/PrestationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/DemandeApi.java" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversMenuFactory.java" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/PrestationLayoutFactory.java" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversMainUI.java" />
+        <option value="$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/PrestationApi.java" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/ShowAllPrestationsLayoutFactory.java" />
+        <option value="$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Prestation.java" />
+        <option value="$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/PrestationStringUtils.java" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java" />
+        <option value="$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fosagri-model/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversLogoLayoutFactory.java" />
       </list>
     </option>
   </component>
@@ -553,6 +348,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1932" />
     <option name="height" value="1050" />
   </component>
@@ -564,6 +361,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -635,30 +433,90 @@
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
               <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="addPrestationService" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="prestation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="removestudent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
               <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
               <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
               <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
               <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -666,11 +524,135 @@
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
               <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
-              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="navigator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="showallstudents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="commonns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="prestation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="universe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fosagri-master" type="462c0819:PsiDirectoryNode" />
+              <item name="fosagri-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="universe" type="b2602c69:ProjectViewProjectNode" />
@@ -719,7 +701,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -733,7 +714,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../relais" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -742,11 +723,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fosagri.service.prestation" />
       <recent name="com.fosagri.rest" />
       <recent name="com.fosagri.ui.commonns" />
       <recent name="com.fosagri.ui.prestation" />
       <recent name="com.fosagri.utils" />
-      <recent name="com.fosagri.service.showPrestationService" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\surface\IdeaProjects\universe-master" />
@@ -924,10 +905,10 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Application.TesConnection" />
       <item itemvalue="Application.TestConnection" />
       <item itemvalue="Spring Boot.SpringBootApplication" />
-      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
@@ -958,12 +939,22 @@
       <workItem from="1548172955746" duration="24000" />
       <workItem from="1548444561186" duration="11422000" />
       <workItem from="1548457231873" duration="94000" />
-      <workItem from="1548457577842" duration="40135000" />
+      <workItem from="1548457577842" duration="40832000" />
+      <workItem from="1548716569100" duration="1486000" />
+      <workItem from="1548807008752" duration="9826000" />
     </task>
+    <task id="LOCAL-00001" summary="API Remote">
+      <created>1548552546113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548552546113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127363000" />
+    <option name="totallyTimeSpent" value="139372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
@@ -985,14 +976,15 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3293979" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="bottom" id="Run Dashboard" order="9" sideWeight="0.4996573" weight="0.29161748" />
+      <window_info anchor="bottom" id="Run Dashboard" order="9" sideWeight="0.4996573" weight="0.377804" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293979" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.37072018" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.37072018" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2796436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2878684" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1004,7 +996,6 @@
       <window_info anchor="right" id="CDI" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1039,6 +1030,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API Remote" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Remote" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1060,8 +1055,22 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java</url>
+          <line>84</line>
+          <properties class="com.fosagri.ui.prestation.AddPrestationLayoutFactory.AddPrestationLayout" method="layout">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
@@ -1092,36 +1101,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/universe-util/src/main/java/com/fosagri/utils/NotificationMessages.java" />
-    <entry file="file://$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Student.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/StudentLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/ShowAllStudentsLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/service/showallstudents/ShowAllStudentsService.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UIComponentBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/students/AddStudentMainLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversLogoLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-model/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/universe-rest/src/main/java/com/fosagri/rest/GreetingController.java" />
-    <entry file="file://$PROJECT_DIR$/universe-rest/src/main/java/com/fosagri/rest/PrestationApi.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/adherent/AddAdherenetLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-model/src/main/java/com/fosagri/model/entity/Prestation.java" />
-    <entry file="file://$PROJECT_DIR$/universe-repository/src/main/java/com/fosagri/repository/prestation/PrestationRepository.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.2.RELEASE/spring-data-commons-1.12.2.RELEASE.jar!/org/springframework/data/domain/PageRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/universe-model/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-repository/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/universe-web/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestat/MainUI.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestat/PrestationModifiedEvent.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/prestat/PrestationForm.java" />
-    <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversMenuFactory.java" />
-    <entry file="file://$PROJECT_DIR$/universe-web/src/main/java/com/fosagri/SpringBootApplication.java" />
     <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/UniversMainUI.java" />
     <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/navigator/UniverseNavigator.java" />
     <entry file="file://$PROJECT_DIR$/universe-ui/src/main/java/com/fosagri/ui/commonns/TestView.java" />
@@ -1144,19 +1123,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversMainUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="21" column="20" selection-start-line="21" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/resources/application.properties" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/8.3.0/vaadin-server-8.3.0.jar!/com/vaadin/ui/Grid.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1189,13 +1156,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MyForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MyForm.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.4.4/vaadin-server-7.4.4.jar!/com/vaadin/ui/Button.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-158">
@@ -1207,16 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,45 +1175,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/PrestationCrudEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="180">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Prestation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestat-ui/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-864">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestat-ui/src/main/java/com/fosagri/spring/MainView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="288">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1562#1574#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1272,29 +1198,237 @@
     <entry file="file://$PROJECT_DIR$/fosagri-model/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Adherent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="144">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/PrestationApi.java">
+    <entry file="file://$PROJECT_DIR$/prestat-ui/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="66" column="38" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="38" />
+        <state relative-caret-position="234">
+          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.10.2.RELEASE/spring-data-jpa-1.10.2.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-repository/src/main/java/com/fosagri/repository/prestation/PrestationRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/DemandeApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/AdherentApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="252">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/students/StudentLayoutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/Periode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/AdherentStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/Choix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/prestation/PrestationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-744">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1383#1384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/prestation/PrestationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/service/showallstudents/ShowAllStudentsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/service/showallstudents/ShowAllStudentsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversMenuFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UIComponentBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-rest/src/main/java/com/fosagri/rest/PrestationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversMainUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/ShowAllPrestationsLayoutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="35" column="104" selection-start-line="35" selection-start-column="104" selection-end-line="35" selection-end-column="104" />
+          <folding>
+            <element signature="e#1601#1602#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/java/com/fosagri/model/entity/Prestation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/PrestationSavedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/PrestationLayoutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-util/src/main/java/com/fosagri/utils/PrestationStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/prestation/AddPrestationLayoutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-813">
+          <caret line="71" column="40" lean-forward="true" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-service/src/main/java/com/fosagri/service/addPrestationService/AddPrestationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-model/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/navigator/UniverseNavigator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#778#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fosagri-ui/src/main/java/com/fosagri/ui/commonns/UniversLogoLayoutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
